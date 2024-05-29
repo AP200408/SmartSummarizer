@@ -1,6 +1,6 @@
 flask
+requests
 torch
 transformers
 flask-cors
-spacy
 Werkzeug
