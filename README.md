@@ -29,5 +29,5 @@ This project showcases your ability to work with state-of-the-art NLP models, bu
 To run the web application, run:
 
 ```bash
-python webapp/app.py
+python app.py
 ```
