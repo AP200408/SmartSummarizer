@@ -15,8 +15,8 @@ This project showcases your ability to work with state-of-the-art NLP models, bu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/text-summarization.git
-   cd text-summarization
+   git clone https://github.com/your-username/SmartSummarizer.git
+   cd SmartSummarizer
    ```
 
 2. Install the required packages:
