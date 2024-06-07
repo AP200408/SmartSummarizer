@@ -1,7 +1,7 @@
 # Text Summarization Web Application
 
 This project demonstrates the use of a pre-trained BART model for text summarization using the Hugging Face Transformers library. It includes a web application to input text and get summarized output.
-This project showcases your ability to work with state-of-the-art NLP models, build and deploy web applications, and can be a great addition to your resume.
+This project showcases your ability to work with state-of-the-art NLP models, build and deploy web applications.
 
 ## Project Structure
 
